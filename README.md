@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Currently:
+- researcher at CMU ArgoAI Center for Autonomous Driving working with Ph.D. Gengshan Yang and Prof. Deva Ramanan
+- researcher at Kakao Enterprise, Context part
+- Junior at CMU
