@@ -19,4 +19,4 @@ Here are some ideas to get you started:
     📄 Publications: 2
     🔬 Research grant earned: 100K$ USD
     ⭐ on Github / Kaggle: ~2000 
-    💼 Full-time software engineer experience: 3+ years
+    💼 Software engineer at Google CoreML
